@@ -45,7 +45,7 @@
     "nekobot-api": "^1.3.2",
     "nekos.life": "^2.0.7",
     "nhentai-api": "^3.0.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "owoify-js": "^1.0.7",
     "patch-package": "^6.2.2",
     "pg": "^8.3.0",
